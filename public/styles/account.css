@@ -374,7 +374,7 @@ input{
 .grid div td{
   color: gray;
   font-size: 1.2em;
-  text-align: end;
+  text-align: start;
 }
 
 .grid strong{
